@@ -1,0 +1,16 @@
+Description:
+
+This repo applies Scikit-Learn techniques to some cryptocurrency price data
+
+Repo contents:
+
+Resources
+    crypto_market_data.csv
+.gitignore
+Crypto_Clustering_finished_code.ipynb
+README
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
